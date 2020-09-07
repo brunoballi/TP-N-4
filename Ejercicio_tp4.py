@@ -7,7 +7,7 @@
 #   ales de un alumno. Ademas debe mostrar el promedio del alumno e indicar si
 #   aprobo o no la materia.
 #
-#-------------------------------------------------------------------------------
+--------------------------------------------------------------------
 
 
 
